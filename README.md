@@ -17,14 +17,18 @@ AI所生成的图片与基于AI图片的妆面。眼珠造型，均是并没有�
 抱歉，数据集非常的庞大，要从数据集中找到您【可能存在】的照片非常困难，但bot不会开源数据集，因此您的图片并不会直接被分享。
 
 1. What is this GaN?
-A deep learning neural network based on StyleGan2 is published, which is trained by Dollfie Dream, Dollce and other human-like photos, and automatically generates 512*512 images of GaN.
-2. What's the use?
+A deep learning network based on StyleGan2 is published, which is trained by Dollfie Dream, Dollce and other moedoll's photos, and generates 512*512 images of GaN.
+2. What's the use? 
 It doesn't do anything, it just generates images.
-3. Can I use the picture?
-AI generated images and makeup based on AI images.Eye modeling, are not copyright, but as a training set of data may be involved in copyright, it is recommended to be cautious commercial.
+3. Can I use the images?
+AI generated images and makeup based on AI images, all not have copyright, but as a training set of data may be involved in copyright, please be careful.
 4. Can I generate my own images?
-Totally, but the model is still being trained, and when the model is producing satisfactory results, the PKL file will be open sourced.
+Totally, but the model is still being trained, and when the model is producing satisfactory results, the newlest PKL file will be shared timely.
 5. Why is the picture like my doll?
 The data set is collected by crawlers. If you have posted relevant photos on social networking sites, your photos are likely to be included in the data set. But please rest assured that the AI will not generate exactly the same content as the data set, just some similarities.
 6. Can I cancel if my image is in the dataset
-Sorry, the data set is very large and it is very difficult to find your [possible] photos from the data set, but the bot does not open source the data set, so your images will not be shared directly.
+Sorry, the data set is large and it is very difficult to find your [probabilistic] photos from the dataset, but the bot does not open source the data set, so your images will not be shared directly.
+
+基于halcy的代码的一个捏脸：https://colab.research.google.com/drive/1Fni_gYFxbui98reoElbeRSinQoJ-gUEB?usp=sharing
+
+STYLE CONTROL COLAB BASED ON HALCY:https://colab.research.google.com/drive/1Fni_gYFxbui98reoElbeRSinQoJ-gUEB?usp=sharing
